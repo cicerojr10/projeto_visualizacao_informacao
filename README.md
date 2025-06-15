@@ -44,6 +44,7 @@ jupyter notebook projeto_visualizacaoDaInformacao.ipynb
 ```
 
 📈 Principais Resultados
+
 ✔ Visualização efetiva dos dados estudados
 
 ✔ Variações em gráficos de colunas, setores e séries temporais
@@ -51,6 +52,7 @@ jupyter notebook projeto_visualizacaoDaInformacao.ipynb
 ✔ Insights desenvolvidos a partir dos gráficos gerados
 
 🚀 Estrutura de Arquivos
+
 projeto_visualizacaoDaInformacao.ipynb — Notebook principal com análise e visualizações
 
 datasets/ (opcional) — arquivos CSV utilizados
@@ -58,6 +60,7 @@ datasets/ (opcional) — arquivos CSV utilizados
 images/ (opcional) — capturas dos gráficos gerados
 
 📚 Conceitos Aplicados
+
 Data Cleaning e manipulação de DataFrames
 
 Visualização gráfica (Matplotlib)
