@@ -45,29 +45,29 @@ jupyter notebook projeto_visualizacaoDaInformacao.ipynb
 
 📈 Principais Resultados
 
-✔ Visualização efetiva dos dados estudados
+- ✔ Visualização efetiva dos dados estudados
 
-✔ Variações em gráficos de colunas, setores e séries temporais
+- ✔ Variações em gráficos de colunas, setores e séries temporais
 
-✔ Insights desenvolvidos a partir dos gráficos gerados
+- ✔ Insights desenvolvidos a partir dos gráficos gerados
 
 🚀 Estrutura de Arquivos
 
-projeto_visualizacaoDaInformacao.ipynb — Notebook principal com análise e visualizações
+- projeto_visualizacaoDaInformacao.ipynb — Notebook principal com análise e visualizações
 
-datasets/ (opcional) — arquivos CSV utilizados
+- datasets/ (opcional) — arquivos CSV utilizados
 
-images/ (opcional) — capturas dos gráficos gerados
+- images/ (opcional) — capturas dos gráficos gerados
 
 📚 Conceitos Aplicados
 
-Data Cleaning e manipulação de DataFrames
+- Data Cleaning e manipulação de DataFrames
 
-Visualização gráfica (Matplotlib)
+- Visualização gráfica (Matplotlib)
 
-Interpretação de dados por múltiplos ângulos
+- Interpretação de dados por múltiplos ângulos
 
-Pipeline de análise de dados exploratória (EDA)
+- Pipeline de análise de dados exploratória (EDA)
 
 🤝 Contribuição
 Este projeto foi desenvolvido para praticar visualização de informação, fundamentado no uso de datasets reais. Fique à vontade para sugerir gráficos extras, melhorias na apresentação ou adicionar análises complementares.
