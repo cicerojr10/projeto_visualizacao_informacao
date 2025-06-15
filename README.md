@@ -45,7 +45,9 @@ jupyter notebook projeto_visualizacaoDaInformacao.ipynb
 
 📈 Principais Resultados
 ✔ Visualização efetiva dos dados estudados
+
 ✔ Variações em gráficos de colunas, setores e séries temporais
+
 ✔ Insights desenvolvidos a partir dos gráficos gerados
 
 🚀 Estrutura de Arquivos
